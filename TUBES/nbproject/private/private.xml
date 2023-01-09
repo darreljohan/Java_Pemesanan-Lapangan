@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/Operator.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Database/DBConnection.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/dao/lapanganDao.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/OperatorGui.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/HasilPendapatanAdmin.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/Lapangan.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/Register.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/dao/transaksiDao.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/UserGui.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/tubes/index.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/UserPembayaran.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/User.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/Login.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/LapanganCollection.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerUserLog.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerRegister.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/dao/DaoInterface.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/UsersCollection.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerLogin.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/TransaksiCollection.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerUserBook.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/UserBook.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/UserCommon.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/ActiveUser.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/Transaksi.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerUserPembayaran.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerUserGui.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/dao/userDao.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/AppConfig.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/AdminGui.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Model/Admin.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerAdminGui.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/View/UserLog.java</file>
+            <file>file:/C:/Users/darre/Documents/Kuliah%20Document/PBO/TUBES/src/Controller/ControllerOperatorGui.java</file>
+        </group>
+    </open-files>
+</project-private>
